@@ -1,2 +1,2 @@
-# Celestial-Bodies-PostgreSQL-Database
-Build a Celestial Bodies Database using PostgreSQL
+# SQL Projects
+Building SQL Projects
