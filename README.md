@@ -1,2 +1,2 @@
 # SQL Projects
-Building SQL Projects
+Building projects to familiarise with SQL commands.
